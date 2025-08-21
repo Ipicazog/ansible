@@ -1,1 +1,1 @@
-mkdir tryy
+echo hello ; mkdir tryy
