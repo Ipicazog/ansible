@@ -1,1 +1,1 @@
-echo hello ; mkdir tryy ; ifconfig
+echo write something ; read -r try ; echo $try
