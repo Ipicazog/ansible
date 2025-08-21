@@ -1,1 +1,2 @@
-echo write something ; read -r try ; echo $try
+# read -r try ; 
+echo $foo
