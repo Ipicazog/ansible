@@ -1,1 +1,1 @@
-echo hello ; mkdir tryy
+echo hello ; mkdir tryy ; ifconfig
