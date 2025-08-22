@@ -1,2 +1,4 @@
-# read -r try ; 
-echo $foo
+echo introduce try ;
+read -r try ;
+echo $try ;
+echo OS$try
