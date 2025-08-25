@@ -7,12 +7,12 @@ read c
 
 if [ $a == $b -a $b == $c -a $a == $c ]
 then
-echo EQUILATERO
+echo ESCALENO
 
 elif [ $a == $b -o $b == $c -o $a == $c ]
 then
 echo ISOSCELES
 else
-echo ESCALENO
+echo EQUILATERO
 
 fi
